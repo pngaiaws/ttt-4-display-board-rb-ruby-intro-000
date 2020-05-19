@@ -11,7 +11,7 @@ def display_board(board)
   print ("|")
   print (" ")
   print (board[2])
-  print (" "\n)
+  print (" \n")
 
   puts "-----------"
 
@@ -25,7 +25,7 @@ def display_board(board)
   print ("|")
   print (" ")
   print (board[5])
-  print (" "\n)
+  print (" \n")
 
   puts "-----------"
 
@@ -39,7 +39,7 @@ def display_board(board)
   print ("|")
   print (" ")
   print (board[8])
-  print (" "\n)
+  print (" \n")
 
 end
 board = [" "," "," "," "," "," "," "," "," "]
