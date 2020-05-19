@@ -12,7 +12,7 @@ def display_board(board)
   print (" ")
   print (board[2])
   print (" "\n)
-  
+
   puts "-----------"
 
   print (" ")
@@ -26,7 +26,7 @@ def display_board(board)
   print (" ")
   print (board[5])
   print (" "\n)
-  
+
   puts "-----------"
 
   print (" ")
